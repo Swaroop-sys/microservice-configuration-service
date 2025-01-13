@@ -1,4 +1,4 @@
-spring.application.name: config-prod
+spring.application.name: config-xyz
 eureka: 
   client:
     fetch-registry: true
